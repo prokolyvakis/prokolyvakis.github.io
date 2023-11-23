@@ -1,0 +1,31 @@
+.fig-center {
+    width: 200px; /* Or any other size */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Aligns items vertically at the same level */
+}
+
+.social-header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.social-icons {
+    padding: 12px 0;
+}
+
+.social-icons a:not(:last-of-type) {
+    margin-inline-end: 12px;
+}
+
+.social-icons a svg {
+    height: 26px;
+    width: 26px;
+}

@@ -1,0 +1,14 @@
+
+<a class="skip-link" href="#main-content">{{ i18n "skip-link" }}</a>
+
+<header>
+    <div class="header-content">
+        <a href="{{ relURL .Site.Home.Permalink }}" class="title">
+            <h1>{{ .Site.Title }}</h1>
+        </a>
+        <div class="social-header">
+            {{ partial "social_icons.html" site.Params.socialIcons }}
+        </div>
+    </div>
+    <nav>{{- partial "nav.html" . -}}</nav>
+</header>
