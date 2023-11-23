@@ -1,6 +1,6 @@
 # Prodromos Kolyvakis' Personal Website
 
-Welcome to the GitHub repository for my personal website. This site showcases my journey and projects in the field of machine learning and hosts my personal thoughts.
+Welcome to the GitHub repository for my [personal website](https://prokolyvakis.github.io/). This site showcases my journey and projects in the field of machine learning and hosts my personal thoughts.
 
 ## About the Website
 
