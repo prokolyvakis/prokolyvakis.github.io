@@ -13,6 +13,15 @@ Welcome to the GitHub repository for my [personal website](https://prokolyvakis.
 - **Content**: All written content displayed on the website, including blog posts and project descriptions.
 - **Static Assets**: Images, CSS, and JavaScript files used to enhance the website's look and functionality.
 
+## Building the Website
+
+After cloning the repo, it's mandatory to additionally pull the theme using:
+```
+git pull --recurse-submodules
+```
+
+To preview the website, please run: `hugo server`.
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode). This means you are free to share and adapt the material, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
