@@ -88,3 +88,7 @@ enableRobotsTXT = true
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/prodromoskolyvakis"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
