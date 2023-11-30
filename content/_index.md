@@ -16,7 +16,7 @@ extensive experience. My academic endeavors, crowned with a [Ph.D. from EPFL](ht
 focusing on *NLP*, place me at the vanguard
 of applying intricate machine learning research to real-world, multi-industry
 challenges. My professional canvas paints across [academia](https://scholar.google.com/citations?user=JfdNPDkAAAAJ&hl=en), [smart home tech](https://alexa.amazon.com),
-[fintech](https://www.ai2c.ch), and [healthcare](https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science), illustrating a history of pioneering solutions.
+[fintech](https://www.ai2c.ch), [healthcare](https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science), and [virtual reality](https://oramavr.com/), illustrating a history of pioneering solutions.
 
 Driven by the zest to conquer formidable challenges, I propel tech boundaries,
 crafting smarter, efficient systems. Beyond innovation, my zeal for *AI's role
@@ -26,6 +26,9 @@ inclusive tomorrow.
 ---
 
 ### Experience
+
+- [ORamaVR SA](https://oramavr.com/) (*Dec. 2023 - Present, Switzerland*)
+  > Lead a team for Generative AI in medical Virtual Reality environments.
 
 - [Clinical Data Science - CHUV](https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science) (*Jul. 2023 - Nov. 2023, Switzerland*)
   > Leveraging federated learning for time-series forecasting.
