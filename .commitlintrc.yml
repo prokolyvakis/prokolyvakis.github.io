@@ -50,4 +50,5 @@ help: |
     `refactor`:     Rewrites code without feature, performance or bug changes.
     `perf`:         Improves performance.
     `test`:         Adds or modifies tests.
-    `revert`:       Changes that reverting other changes
+    `revert`:       Changes that reverting other changes.
+    `article`:      Add a new article.
