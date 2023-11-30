@@ -1,3 +1,11 @@
+<!-- 
+    Code sourced from: https://github.com/adityatelange 
+    GitHub Repository: https://github.com/adityatelange/hugo-PaperMod
+    License: MIT License
+
+    This code is used under the terms of MIT License from the original repository.
+    Modifications were made for its integration into this project.
+-->
 <div class="social-icons">
     {{- range . }}
     <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
