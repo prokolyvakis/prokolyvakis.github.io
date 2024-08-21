@@ -8,6 +8,10 @@ style: "custom.css"
 
 ### Selected Publications
 
+Geometric Algebra Meets Large Language Models: Instruction-Based Transformations of Separate Meshes in 3D, Interactive and Controllable Scenes
+  > with Dimitris Angelis, Manos Kamarianakis, George Papagiannakis
+  > available on [arXiv](https://arxiv.org/abs/2408.02275)
+
 A Multivariate Unimodality Test Harnenssing the Dip Statistic of Mahalanobis Distances Over Random Projections
   > with Aristidis Likas
   > available on [arXiv](https://arxiv.org/abs/2311.16614)
