@@ -14,7 +14,7 @@ Geometric Algebra Meets Large Language Models: Instruction-Based Transformations
 
 A Multivariate Unimodality Test Harnenssing the Dip Statistic of Mahalanobis Distances Over Random Projections
   > with Aristidis Likas
-  > available on [arXiv](https://arxiv.org/abs/2311.16614)
+  > published on [Uncertainty in Artificial Intelligence 2025 Conference](https://openreview.net/pdf?id=f3KdHTMabv)
 
 Hyperbolic knowledge graph embeddings for knowledge base completion
   > with Alexandros Kalousis, Dimitris Kiritsis
