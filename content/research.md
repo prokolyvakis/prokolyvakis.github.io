@@ -1,5 +1,7 @@
 ---
 title: "Research"
+author: "Prodromos Kolyvakis"
+description: "Selected publications by Prodromos Kolyvakis: NAACL 2018, ESWC 2020, UAI 2025, IEEE ISEMV 2025."
 menu: "main"
 date: "2023-11-21"
 weight: 2

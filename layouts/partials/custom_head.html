@@ -1,2 +1,27 @@
 {{ $extra := resources.Get "custom.css" | minify }}
 <link href="{{ $extra.RelPermalink }}" rel="stylesheet">
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Prodromos Kolyvakis",
+  "url": "https://prokolyvakis.github.io/",
+  "image": "https://prokolyvakis.github.io/images/me.png",
+  "jobTitle": "Co-founder and CTO",
+  "worksFor": { "@type": "Organization", "name": "Aidvo", "url": "https://www.aidvo.co/" },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "École Polytechnique Fédérale de Lausanne", "url": "https://www.epfl.ch/" },
+    { "@type": "CollegeOrUniversity", "name": "National Technical University of Athens", "url": "https://www.ntua.gr/" }
+  ],
+  "knowsAbout": ["Machine learning", "Natural language processing", "Knowledge graphs", "Time-series forecasting", "Health technology"],
+  "sameAs": [
+    "https://github.com/prokolyvakis",
+    "https://scholar.google.com/citations?user=JfdNPDkAAAAJ",
+    "https://www.linkedin.com/in/prodromoskolyvakis",
+    "https://orcid.org/0000-0001-8173-744X",
+    "https://dblp.org/pid/186/5447.html"
+  ]
+}
+</script>
+{{ end }}

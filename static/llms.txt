@@ -1,0 +1,11 @@
+# Prodromos Kolyvakis
+
+> Co-founder and CTO of Aidvo, a platform for booking elder care and nursing at home. Machine learning researcher and engineer, Ph.D. from EPFL.
+
+- Home: https://prokolyvakis.github.io/ (bio, current roles, career timeline, education)
+- Research: https://prokolyvakis.github.io/research/ (selected publications: NAACL 2018, ESWC 2020, UAI 2025, IEEE ISEMV 2025)
+- Blog: https://prokolyvakis.github.io/blog/ (RSS: https://prokolyvakis.github.io/index.xml)
+- Aidvo: https://www.aidvo.co/
+- Google Scholar: https://scholar.google.com/citations?user=JfdNPDkAAAAJ
+- GitHub: https://github.com/prokolyvakis
+- Contact: prokolyvakis@gmail.com

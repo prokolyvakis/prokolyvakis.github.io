@@ -1,9 +1,13 @@
 ---
-title: "Home"
-menu: "main"
+title: "Co-founder and CTO at Aidvo"
+author: "Prodromos Kolyvakis"
+description: "Prodromos Kolyvakis is the co-founder and CTO of Aidvo, a platform for booking elder care and nursing at home. Ph.D. from EPFL; a decade of applied machine learning at Amazon, Taboola, CHUV, ORamaVR and DeepSea."
+menu:
+  main:
+    name: "Home"
+    weight: 1
 date: "2026-11-23"
 draft: false
-weight: 1
 ---
 
 <div class="hero">

@@ -7,6 +7,9 @@ defaultContentLanguage = 'en'
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+# No tags or categories are used; skip their empty pages
+disableKinds = ['taxonomy', 'term']
+
 # Your name
 [params.author]
   name = "Prodromos Kolyvakis"
