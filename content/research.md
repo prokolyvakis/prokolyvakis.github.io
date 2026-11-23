@@ -3,7 +3,6 @@ title: "Research"
 menu: "main"
 date: "2023-11-21"
 weight: 2
-style: "custom.css"
 ---
 
 ### Selected Publications

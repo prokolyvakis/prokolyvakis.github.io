@@ -4,7 +4,6 @@ menu: "main"
 date: "2023-11-21"
 draft: false
 weight: 1
-style: "custom.css"
 ---
 
 ### About
