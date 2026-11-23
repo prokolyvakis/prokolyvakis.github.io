@@ -33,8 +33,8 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     title = "Prodromos Kolyvakis"
-    languageName = "en-US 🇺🇸"
-    LanguageCode = "en-US"
+    label = "en-US 🇺🇸"
+    locale = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
@@ -50,7 +50,7 @@ enableRobotsTXT = true
   # to your site. Ignored if `generateSocialCard = true`. For more information
   # about previews, see https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph
-  images = ["images/share.webp"]
+  images = ["images/me.png"]
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
