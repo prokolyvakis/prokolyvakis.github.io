@@ -67,18 +67,6 @@
     display: inline-block;
     margin: 6px 14px 0 0;
 }
-.hero .actions a.primary {
-    background: var(--accent);
-    color: #0f2a1f;
-    text-decoration: none;
-    padding: 8px 14px;
-    border-radius: 6px;
-    font-weight: 700;
-}
-.hero .actions a.primary:hover,
-.hero .actions a.primary:focus-visible {
-    background: #7ad4b0;
-}
 
 main h3 {
     font-family: var(--display);
@@ -88,21 +76,21 @@ main h3 {
 }
 
 /* Year | item grids: the left column is a date, so the structure carries meaning */
-.timeline, .repos {
+.timeline {
     display: grid;
     grid-template-columns: 11ch 1fr;
     column-gap: 16px;
     row-gap: 10px;
     margin: 0;
 }
-.timeline dt, .repos dt {
+.timeline dt {
     color: #8b949e;
     font-variant-numeric: tabular-nums;
 }
-.timeline dd, .repos dd {
+.timeline dd {
     margin: 0;
 }
-.timeline dd small, .repos dd small {
+.timeline dd small {
     display: block;
     color: #8b949e;
     font-size: 15px;
@@ -112,34 +100,12 @@ main h3 {
     padding-left: 10px;
     margin-left: -13px;
 }
-.repos dt {
-    text-align: right;
-}
 
-.results {
-    padding: 0;
-    list-style: none;
-}
-.results li {
-    margin: 14px 0;
-    padding-left: 14px;
-    border-left: 3px solid #3a3d4a;
-}
-.results li strong {
-    display: block;
-}
 
 @media (max-width: 600px) {
     .hero { flex-direction: column; gap: 16px; }
     .hero h2 { font-size: 30px; }
-    .timeline, .repos { grid-template-columns: 1fr; row-gap: 4px; }
-    .timeline dd, .repos dd { margin-bottom: 10px; }
+    .timeline { grid-template-columns: 1fr; row-gap: 4px; }
+    .timeline dd { margin-bottom: 10px; }
     .repos dt { text-align: left; }
-}
-.shot {
-    display: block;
-    margin-top: 12px;
-    border-radius: 6px;
-    overflow: hidden;
-    border: 1px solid #3a3d4a;
 }
