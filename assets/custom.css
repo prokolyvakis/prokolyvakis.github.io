@@ -107,5 +107,4 @@ main h3 {
     .hero h2 { font-size: 30px; }
     .timeline { grid-template-columns: 1fr; row-gap: 4px; }
     .timeline dd { margin-bottom: 10px; }
-    .repos dt { text-align: left; }
 }
