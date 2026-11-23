@@ -9,11 +9,11 @@ weight: 2
 
 Geometric Algebra Meets Large Language Models: Instruction-Based Transformations of Separate Meshes in 3D, Interactive and Controllable Scenes
   > with Dimitris Angelis, Manos Kamarianakis, George Papagiannakis
-  > available on [arXiv](https://arxiv.org/abs/2408.02275)
+  > published on [IEEE International Symposium on Emerging Metaverse 2025](https://arxiv.org/abs/2408.02275) (co-located with ICCV)
 
 A Multivariate Unimodality Test Harnessing the Dip Statistic of Mahalanobis Distances Over Random Projections
   > with Aristidis Likas
-  > published on Uncertainty in Artificial Intelligence 2025, available on [arXiv](https://arxiv.org/abs/2311.16614)
+  > published on [Uncertainty in Artificial Intelligence 2025](https://proceedings.mlr.press/v286/kolyvakis25a.html)
 
 Hyperbolic knowledge graph embeddings for knowledge base completion
   > with Alexandros Kalousis, Dimitris Kiritsis
