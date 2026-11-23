@@ -21,7 +21,9 @@ focused on representation learning for *NLP* and knowledge graphs; since then
 I have led applied AI work in [smart home tech](https://alexa.amazon.com),
 [ad tech](https://www.taboola.com), [fintech](https://www.ai2c.ch),
 [clinical research](https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science),
-and [medical virtual reality](https://oramavr.com/), and I keep
+and [medical virtual reality](https://oramavr.com/). In parallel with Aidvo
+I lead AI engineering at [DeepSea Technologies](https://www.deepsea.ai/) on a
+contract basis, and I keep
 [publishing](https://scholar.google.com/citations?user=JfdNPDkAAAAJ&hl=en)
 when the work is worth sharing.
 
@@ -32,12 +34,18 @@ small teams that ship.
 
 ### Experience
 
-- [Aidvo](https://www.aidvo.co/) - Co-founder & CTO (*2025 - Present, Greece*)
-  > Own product engineering and the AI roadmap for a home-healthcare
-  > platform: matching, trust and safety, and workflow automation.
+- [Aidvo](https://www.aidvo.co/) - Co-founder & CTO (*Jan. 2025 - Present, Greece*)
+  > Own product engineering and the AI roadmap for a platform booking
+  > elder care and nursing at home: matching, trust and safety, and
+  > workflow automation.
 
-- [ORamaVR SA](https://oramavr.com/) (*Dec. 2023 - 2025, Switzerland*)
-  > Led the Generative AI team for medical Virtual Reality environments.
+- [DeepSea Technologies](https://www.deepsea.ai/) - Lead AI Engineer, contract (*Feb. 2026 - Present, Greece, remote*)
+  > Time-series forecasting for vessel performance: Databricks training
+  > and inference pipelines, causal models for biofouling detection.
+
+- [ORamaVR SA](https://oramavr.com/) - Lead Machine Learning Engineer (*Dec. 2023 - Jan. 2026, Switzerland*)
+  > Architected the company's core ML stack and led a team of three on
+  > transformer-based 3D mesh editing and RAG assistants for medical VR.
 
 - [Clinical Data Science - CHUV](https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science) (*Jul. 2023 - Nov. 2023, Switzerland*)
   > Federated learning for time-series forecasting.
