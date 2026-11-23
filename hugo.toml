@@ -41,7 +41,7 @@ enableRobotsTXT = true
   
 [params]
   # The description of your website
-  description = "Prodromos Kolyvakis' Personal Website"
+  description = "Prodromos Kolyvakis - Co-founder & CTO at Aidvo. Machine learning researcher (Ph.D. EPFL) building AI for home healthcare."
 
   # The path to your favicon
   favicon = "images/favicon.png"
