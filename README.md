@@ -1,29 +1,26 @@
-# Prodromos Kolyvakis' Personal Website
+# prokolyvakis.github.io
 
-Welcome to the GitHub repository for my [personal website](https://prokolyvakis.github.io/). This site showcases my journey and projects in the field of machine learning and hosts my personal thoughts.
+Source of [my personal website](https://prokolyvakis.github.io/): who I am, what I work on, and selected publications.
 
-## About the Website
+Built with [Hugo](https://gohugo.io/) and the [Bear Cub](https://github.com/clente/hugo-bearcub) theme, deployed to GitHub Pages by the workflow in `.github/workflows/hugo.yaml` on every push to `main`.
 
-- **Built With**: This website is created using [Hugo](https://gohugo.io/), an open-source static site generator, known for its speed and flexibility.
-- **Theme Used**: The layout and design are based on the [Hugo Bear Cub Theme](https://github.com/clente/hugo-bearcub).
+## Run locally
 
-## Repository Contents
-
-- **Hugo Source Files**: The repository includes all Hugo source files used to generate the website.
-- **Content**: All written content displayed on the website, including blog posts and project descriptions.
-- **Static Assets**: Images, CSS, and JavaScript files used to enhance the website's look and functionality.
-
-## Building the Website
-
-After cloning the repo, it's mandatory to additionally pull the theme using:
-```
-git pull --recurse-submodules
+```sh
+git clone --recurse-submodules git@github.com:prokolyvakis/prokolyvakis.github.io.git
+cd prokolyvakis.github.io
+hugo server
 ```
 
-To preview the website, please run: `hugo server`.
+Then open http://localhost:1313/. If you already cloned without the theme, run `git submodule update --init`.
+
+## Layout
+
+- `content/` pages and blog posts
+- `assets/custom.css` site styles on top of the theme
+- `layouts/partials/` small overrides of the theme (header, nav, social icons, head tags)
+- `themes/hugo-bearcub/` the theme, as a git submodule
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode). This means you are free to share and adapt the material, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-For more details, see the [LICENSE](LICENSE) file in this repository.
+[CC BY 4.0](LICENSE).
