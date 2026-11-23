@@ -9,13 +9,9 @@ weight: 1
 <div class="hero">
   <img src="/images/me.png" alt="Black and white stylized profile picture of Prodromos Kolyvakis">
   <div>
-    <p class="role">Co-founder and CTO at <a href="https://www.aidvo.co/">Aidvo</a></p>
-    <h2>Machine learning that ships, from the paper to the patient.</h2>
-    <p>Ten years turning research into products: a Ph.D. from EPFL, papers at NAACL, ESWC and UAI, and production systems at Amazon, Taboola, and in Swiss hospitals and operating rooms. Now building the platform that brings elder care and nursing into people's homes.</p>
-    <p class="actions">
-      <a href="https://www.aidvo.co/">See Aidvo</a>
-      <a href="https://scholar.google.com/citations?user=JfdNPDkAAAAJ&hl=en">Publications</a>
-    </p>
+    <p>I am the co-founder and CTO of <a href="https://www.aidvo.co/">Aidvo</a>, where we are building a platform for booking elder care and nursing at home: vetted caregivers, transparent pricing, and AI that lets families describe what they need in their own words and find the right care in a few steps.</p>
+    <p>Before Aidvo I spent a decade turning machine learning research into shipped products. My <a href="https://infoscience.epfl.ch/record/277801">Ph.D. from EPFL</a> focused on representation learning for <em>NLP</em> and knowledge graphs; since then I have led applied AI work in <a href="https://alexa.amazon.com">smart home tech</a>, <a href="https://www.taboola.com">ad tech</a>, <a href="https://www.ai2c.ch">fintech</a>, <a href="https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science">clinical research</a>, <a href="https://oramavr.com/">medical virtual reality</a>, and <a href="https://www.deepsea.ai/">naval engineering</a>, and I keep <a href="https://scholar.google.com/citations?user=JfdNPDkAAAAJ&hl=en">publishing</a> when the work is worth sharing.</p>
+    <p>I care about AI that earns people's trust, especially in health, and about small teams that ship.</p>
   </div>
 </div>
 

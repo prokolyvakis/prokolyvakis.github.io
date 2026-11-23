@@ -48,24 +48,8 @@
     flex: none;
     border-radius: 50%;
 }
-.hero .role {
-    color: var(--accent);
-    margin: 0 0 6px;
-}
-.hero h2 {
-    font-family: var(--display);
-    font-weight: 400;
-    font-size: 36px;
-    line-height: 1.15;
-    letter-spacing: -0.01em;
-    margin: 0 0 14px;
-}
 .hero p {
     margin: 0 0 10px;
-}
-.hero .actions a {
-    display: inline-block;
-    margin: 6px 14px 0 0;
 }
 
 main h3 {
@@ -104,7 +88,6 @@ main h3 {
 
 @media (max-width: 600px) {
     .hero { flex-direction: column; gap: 16px; }
-    .hero h2 { font-size: 30px; }
     .timeline { grid-template-columns: 1fr; row-gap: 4px; }
     .timeline dd { margin-bottom: 10px; }
 }
