@@ -39,8 +39,7 @@ small teams that ship.
   > workflow automation.
 
 - [DeepSea Technologies](https://www.deepsea.ai/) - Lead AI Engineer (*Feb. 2026 - Present, Greece*)
-  > Time-series forecasting for vessel performance: Databricks training
-  > and inference pipelines, causal models for biofouling detection.
+  > Time-series forecasting for vessel performance.
 
 - [ORamaVR SA](https://oramavr.com/) - Lead Machine Learning Engineer (*Dec. 2023 - Jan. 2026, Switzerland*)
   > Architected the company's core ML stack and led a team of three on
