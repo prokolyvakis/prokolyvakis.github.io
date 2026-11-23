@@ -29,3 +29,117 @@
     height: 26px;
     width: 26px;
 }
+
+/* ---- Home page ---- */
+:root {
+    --accent: #5cc39a; /* Aidvo green, lifted for the dark background */
+    --display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+}
+
+.hero {
+    display: flex;
+    gap: 28px;
+    align-items: flex-start;
+    margin: 36px 0 28px;
+}
+.hero img {
+    width: 128px;
+    height: 128px;
+    flex: none;
+    border-radius: 50%;
+}
+.hero .role {
+    color: var(--accent);
+    margin: 0 0 6px;
+}
+.hero h2 {
+    font-family: var(--display);
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin: 0 0 14px;
+}
+.hero p {
+    margin: 0 0 10px;
+}
+.hero .actions a {
+    display: inline-block;
+    margin: 6px 14px 0 0;
+}
+.hero .actions a.primary {
+    background: var(--accent);
+    color: #0f2a1f;
+    text-decoration: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-weight: 700;
+}
+.hero .actions a.primary:hover,
+.hero .actions a.primary:focus-visible {
+    background: #7ad4b0;
+}
+
+main h3 {
+    font-family: var(--display);
+    font-weight: 400;
+    font-size: 28px;
+    margin-top: 40px;
+}
+
+/* Year | item grids: the left column is a date, so the structure carries meaning */
+.timeline, .repos {
+    display: grid;
+    grid-template-columns: 11ch 1fr;
+    column-gap: 16px;
+    row-gap: 10px;
+    margin: 0;
+}
+.timeline dt, .repos dt {
+    color: #8b949e;
+    font-variant-numeric: tabular-nums;
+}
+.timeline dd, .repos dd {
+    margin: 0;
+}
+.timeline dd small, .repos dd small {
+    display: block;
+    color: #8b949e;
+    font-size: 15px;
+}
+.timeline dd.now {
+    border-left: 3px solid var(--accent);
+    padding-left: 10px;
+    margin-left: -13px;
+}
+.repos dt {
+    text-align: right;
+}
+
+.results {
+    padding: 0;
+    list-style: none;
+}
+.results li {
+    margin: 14px 0;
+    padding-left: 14px;
+    border-left: 3px solid #3a3d4a;
+}
+.results li strong {
+    display: block;
+}
+
+@media (max-width: 600px) {
+    .hero { flex-direction: column; gap: 16px; }
+    .hero h2 { font-size: 30px; }
+    .timeline, .repos { grid-template-columns: 1fr; row-gap: 4px; }
+    .timeline dd, .repos dd { margin-bottom: 10px; }
+    .repos dt { text-align: left; }
+}
+.shot {
+    display: block;
+    margin-top: 12px;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid #3a3d4a;
+}

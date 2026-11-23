@@ -27,6 +27,8 @@ enableRobotsTXT = true
       wrapStandAloneImageWithinParagraph = false
     [markup.goldmark.parser.attribute]
       block = true
+    [markup.goldmark.renderer]
+      unsafe = true # the home page uses a few raw HTML blocks
 
 # Multilingual mode config. More for information about how to setup translation,
 # see https://gohugo.io/content-management/multilingual/
