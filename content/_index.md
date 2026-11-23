@@ -10,10 +10,10 @@ weight: 1
 
 {{< figure src="/images/me.png" alt="Black and white stylized profile picture of Prodromos Kolyvakis" class="fig-center" >}}
 
-I am the co-founder and CTO of **Aidvo**, where we are building a digital
-platform that makes finding trusted home-care professionals as simple as
-booking a ride: careful matching, transparent ratings, and AI that takes the
-paperwork off the hands of patients, families, and caregivers.
+I am the co-founder and CTO of [Aidvo](https://www.aidvo.co/), where we
+are building a platform for booking elder care and nursing at home: vetted
+caregivers, transparent pricing, and AI that lets families describe what they
+need in their own words and find the right care in a few steps.
 
 Before Aidvo I spent a decade turning machine learning research into shipped
 products. My [Ph.D. from EPFL](https://infoscience.epfl.ch/record/277801)
@@ -32,7 +32,7 @@ small teams that ship.
 
 ### Experience
 
-- **Aidvo** - Co-founder & CTO (*2025 - Present, Greece*)
+- [Aidvo](https://www.aidvo.co/) - Co-founder & CTO (*2025 - Present, Greece*)
   > Own product engineering and the AI roadmap for a home-healthcare
   > platform: matching, trust and safety, and workflow automation.
 
