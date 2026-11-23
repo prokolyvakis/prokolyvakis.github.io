@@ -39,7 +39,7 @@
 .hero {
     display: flex;
     gap: 28px;
-    align-items: flex-start;
+    align-items: center;
     margin: 36px 0 28px;
 }
 .hero img {
@@ -80,11 +80,6 @@ main h3 {
     display: block;
     color: #8b949e;
     font-size: 15px;
-}
-.timeline dd.now {
-    border-left: 3px solid var(--accent);
-    padding-left: 10px;
-    margin-left: -13px;
 }
 
 
