@@ -19,10 +19,10 @@ weight: 1
 
 <dl class="timeline">
   <dt>2025 to now</dt>
-  <dd><a href="https://www.aidvo.co/">Aidvo</a>, co-founder and CTO
+  <dd><a href="https://www.aidvo.co/">Aidvo</a>, Co-founder and CTO
     <small>Elder care and nursing at home, booked in a few steps. I own product engineering and the AI roadmap: matching, trust and safety, workflow automation.</small></dd>
   <dt>2026 to now</dt>
-  <dd><a href="https://www.deepsea.ai/">DeepSea Technologies</a>, lead AI engineer
+  <dd><a href="https://www.deepsea.ai/">DeepSea Technologies</a>, Lead AI Engineer
     <small>Time-series forecasting for vessel performance.</small></dd>
 </dl>
 
@@ -30,17 +30,17 @@ weight: 1
 
 <dl class="timeline">
   <dt>2023 to 2026</dt>
-  <dd><a href="https://oramavr.com/">ORamaVR</a>, lead machine learning engineer <small>Geneva, Switzerland</small></dd>
+  <dd><a href="https://oramavr.com/">ORamaVR</a>, Lead Machine Learning Engineer <small>Geneva, Switzerland</small></dd>
   <dt>2023</dt>
-  <dd><a href="https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science">CHUV, Clinical Data Science</a>, senior machine learning engineer <small>Lausanne, Switzerland</small></dd>
+  <dd><a href="https://www.chuv.ch/en/bdsc/research/our-groups/clinical-data-science">CHUV, Clinical Data Science</a>, Senior Machine Learning Engineer <small>Lausanne, Switzerland</small></dd>
   <dt>2022 to 2023</dt>
-  <dd><a href="https://www.ai2c.ch">AI2C Technologies</a>, senior machine learning engineer <small>Zurich, Switzerland. Deep learning for medium-frequency trading.</small></dd>
+  <dd><a href="https://www.ai2c.ch">AI2C Technologies</a>, Senior Machine Learning Engineer <small>Zurich, Switzerland. Deep learning for medium-frequency trading.</small></dd>
   <dt>2021 to 2022</dt>
-  <dd><a href="https://www.taboola.com">Taboola</a>, senior machine learning engineer and tech lead <small>Athens, Greece</small></dd>
+  <dd><a href="https://www.taboola.com">Taboola</a>, Senior Machine Learning Engineer and Tech Lead <small>Athens, Greece</small></dd>
   <dt>2020 to 2021</dt>
-  <dd>Hellenic Army Information Technology Support Center, software engineer <small>Military service. Details are confidential.</small></dd>
+  <dd>Hellenic Army Information Technology Support Center, Software Engineer <small>Military service. Details are confidential.</small></dd>
   <dt>2019</dt>
-  <dd><a href="https://alexa.amazon.com">Amazon Alexa AI</a>, applied scientist intern <small>Cambridge, Massachusetts. Self-supervised customer segmentation.</small></dd>
+  <dd><a href="https://alexa.amazon.com">Amazon Alexa AI</a>, Applied Scientist Intern <small>Cambridge, Massachusetts. Self-supervised customer segmentation.</small></dd>
 </dl>
 
 ### Education
