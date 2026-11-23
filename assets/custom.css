@@ -29,3 +29,61 @@
     height: 26px;
     width: 26px;
 }
+
+/* ---- Home page ---- */
+:root {
+    --accent: #5cc39a; /* Aidvo green, lifted for the dark background */
+    --display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+}
+
+.hero {
+    display: flex;
+    gap: 28px;
+    align-items: center;
+    margin: 36px 0 28px;
+}
+.hero img {
+    width: 128px;
+    height: 128px;
+    flex: none;
+    border-radius: 50%;
+}
+.hero p {
+    margin: 0 0 10px;
+    text-align: justify;
+}
+
+main h3 {
+    font-family: var(--display);
+    font-weight: 400;
+    font-size: 28px;
+    margin-top: 40px;
+}
+
+/* Year | item grids: the left column is a date, so the structure carries meaning */
+.timeline {
+    display: grid;
+    grid-template-columns: 11ch 1fr;
+    column-gap: 16px;
+    row-gap: 10px;
+    margin: 0;
+}
+.timeline dt {
+    color: #8b949e;
+    font-variant-numeric: tabular-nums;
+}
+.timeline dd {
+    margin: 0;
+}
+.timeline dd small {
+    display: block;
+    color: #8b949e;
+    font-size: 15px;
+}
+
+
+@media (max-width: 600px) {
+    .hero { flex-direction: column; gap: 16px; }
+    .timeline { grid-template-columns: 1fr; row-gap: 4px; }
+    .timeline dd { margin-bottom: 10px; }
+}

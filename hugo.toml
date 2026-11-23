@@ -7,6 +7,9 @@ defaultContentLanguage = 'en'
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+# No tags or categories are used; skip their empty pages
+disableKinds = ['taxonomy', 'term']
+
 # Your name
 [params.author]
   name = "Prodromos Kolyvakis"
@@ -27,21 +30,23 @@ enableRobotsTXT = true
       wrapStandAloneImageWithinParagraph = false
     [markup.goldmark.parser.attribute]
       block = true
+    [markup.goldmark.renderer]
+      unsafe = true # the home page uses a few raw HTML blocks
 
 # Multilingual mode config. More for information about how to setup translation,
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
     title = "Prodromos Kolyvakis"
-    languageName = "en-US 🇺🇸"
-    LanguageCode = "en-US"
+    label = "en-US 🇺🇸"
+    locale = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
   
 [params]
   # The description of your website
-  description = "Prodromos Kolyvakis' Personal Website"
+  description = "Prodromos Kolyvakis - Co-founder & CTO at Aidvo. Machine learning researcher (Ph.D. EPFL) building AI for home healthcare."
 
   # The path to your favicon
   favicon = "images/favicon.png"
@@ -50,7 +55,7 @@ enableRobotsTXT = true
   # to your site. Ignored if `generateSocialCard = true`. For more information
   # about previews, see https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph
-  images = ["images/share.webp"]
+  images = ["images/me.png"]
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
