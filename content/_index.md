@@ -22,12 +22,12 @@ draft: false
 ### Now
 
 <dl class="timeline">
-  <dt>2025 to now</dt>
-  <dd><a href="https://www.aidvo.co/">Aidvo</a>, Co-founder and CTO
-    <small>Elder care and nursing at home, booked in a few steps. I own product engineering and the AI roadmap: matching, trust and safety, workflow automation.</small></dd>
   <dt>2026 to now</dt>
   <dd><a href="https://www.deepsea.ai/">DeepSea Technologies</a>, Lead AI Engineer
     <small>Time-series forecasting for vessel performance.</small></dd>
+  <dt>2025 to now</dt>
+  <dd><a href="https://www.aidvo.co/">Aidvo</a>, Co-founder and CTO
+    <small>Elder care and nursing at home, booked in a few steps. I own product engineering and the AI roadmap: matching, trust and safety, workflow automation.</small></dd>
 </dl>
 
 ### Earlier
