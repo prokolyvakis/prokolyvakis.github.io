@@ -11,7 +11,7 @@ weight: 2
 
 Geometric Algebra Meets Large Language Models: Instruction-Based Transformations of Separate Meshes in 3D, Interactive and Controllable Scenes
   > with Manos Kamarianakis, George Papagiannakis
-  > published on [IEEE International Symposium on Emerging Metaverse 2025](https://arxiv.org/abs/2408.02275) (co-located with ICCV)
+  > published on [IEEE International Symposium on Emerging Metaverse 2025](https://arxiv.org/abs/2408.02275)
 
 A Multivariate Unimodality Test Harnessing the Dip Statistic of Mahalanobis Distances Over Random Projections
   > with Aristidis Likas
