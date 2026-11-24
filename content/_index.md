@@ -1,5 +1,5 @@
 ---
-title: "Co-founder and CTO at Aidvo"
+title: "Co-founder & CTO at Aidvo"
 author: "Prodromos Kolyvakis"
 description: "Prodromos Kolyvakis is the co-founder and CTO of Aidvo, a platform for booking elder care and nursing at home. Ph.D. from EPFL; a decade of applied machine learning at Amazon, Taboola, CHUV, ORamaVR and DeepSea."
 menu:
@@ -26,7 +26,7 @@ draft: false
   <dd><a href="https://www.deepsea.ai/">DeepSea Technologies</a>, Lead AI Engineer
     <small>Time-series forecasting for vessel performance.</small></dd>
   <dt>2025 to now</dt>
-  <dd><a href="https://www.aidvo.co/">Aidvo</a>, Co-founder and CTO
+  <dd><a href="https://www.aidvo.co/">Aidvo</a>, Co-founder & CTO
     <small>Elder care and nursing at home, booked in a few steps. I own product engineering and the AI roadmap: matching, trust and safety, workflow automation.</small></dd>
 </dl>
 
@@ -40,7 +40,7 @@ draft: false
   <dt>2022 to 2023</dt>
   <dd><a href="https://www.ai2c.ch">AI2C Technologies</a>, Senior Machine Learning Engineer <small>Zurich, Switzerland. Deep learning for medium-frequency trading.</small></dd>
   <dt>2021 to 2022</dt>
-  <dd><a href="https://www.taboola.com">Taboola</a>, Senior Machine Learning Engineer and Tech Lead <small>Athens, Greece</small></dd>
+  <dd><a href="https://www.taboola.com">Taboola</a>, Senior Machine Learning Engineer & Tech Lead <small>Athens, Greece</small></dd>
   <dt>2020 to 2021</dt>
   <dd>Hellenic Army Information Technology Support Center, Software Engineer <small>Military service. Details are confidential.</small></dd>
   <dt>2019</dt>
